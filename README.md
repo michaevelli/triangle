@@ -1,5 +1,6 @@
 ## Triangles
 
+
 Print formatted pascal triangle  
 tri0 to tri3 were previous iterations that lead up to pascal  
 0: left aligned triangle, 9 rows  
